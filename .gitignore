@@ -1,0 +1,12 @@
+backend/.env
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/data/zomato.csv
+backend/data/*.zip
+backend/data/*.pkl
+frontend/node_modules/
+frontend/dist/
+.vscode/
+.idea/
+*.log
